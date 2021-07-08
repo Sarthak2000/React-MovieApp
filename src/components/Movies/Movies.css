@@ -1,0 +1,8 @@
+.movies{
+    display: flex;
+    justify-content: space-around;
+    grid-gap: 30px;
+    background: black;
+    flex-wrap: wrap;
+    min-height:90vh;
+}

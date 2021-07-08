@@ -1,0 +1,30 @@
+.movie{
+    height: 450px;
+    width: 28%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.Poster-img{
+    height: 85%;
+}
+.Poster-img img{
+    height: 100%;
+    width: 100%;
+}
+.title{
+    height: 10%;
+    font-size: 122%;
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.movie-rating{
+    height: 5%;
+    /* font-size: 100%; */
+    text-align: right;
+}
